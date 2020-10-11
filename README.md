@@ -4,7 +4,7 @@
 
 This is a simple App for implement AJAX CRUD with Laravel 6 and AdminLTE.
 
-![alt text](https://github.com/YogaAPSY/laravel-ajax/master/Screenshot_70.png?raw=true)
+![alt text](https://github.com/YogaAPSY/laravel-ajax/blob/master/Screenshot_70.png?raw=true)
 
 
 ## How to Install
